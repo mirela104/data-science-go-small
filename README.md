@@ -1,2 +1,2 @@
-# data-science-go-small
+# Data Science Go Small
 All great things come from small beginnings
